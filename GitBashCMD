@@ -2,10 +2,10 @@
 git update-git-for-windows
 
 # git config --global user.name "[USERNAME]"
-$ git config --global user.name "ellohez"
+git config --global user.name "ellohez"
 
 # git config --global user.email "[EMAIL]"
-$ git config --global user.email "helenpjobs@gmail.com"
+git config --global user.email "helenpjobs@gmail.com"
 
 # To check a specific keys value
 git config user.name 
